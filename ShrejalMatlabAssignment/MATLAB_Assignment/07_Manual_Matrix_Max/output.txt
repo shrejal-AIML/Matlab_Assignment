@@ -1,0 +1,15 @@
+---- Manual Matrix Maximum ----
+
+Test matrix 1:
+     7    22    -1
+    15     3    28
+    -6    19    10
+Max value  : 28
+Location   : Row 2, Column 3
+
+Test matrix 2:
+   -11    -4   -18
+    -2   -25    -7
+   -14   -30    -9
+Max value  : -2
+Location   : Row 2, Column 1

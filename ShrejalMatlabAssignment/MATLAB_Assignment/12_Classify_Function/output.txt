@@ -1,0 +1,11 @@
+---- Classification Comparison ----
+Set A: 5 -12 0 16 -3 9 24 0
+Set B: -18 7 -2 0 8 -26 13 4.5
+
+Category     Set A   Set B   Note
+------------------------------------------
+Positive          4       4   Tied
+Negative          2       3   B leads
+Zero              2       1   A leads
+Even              5       4   A leads
+Odd               3       3   Tied

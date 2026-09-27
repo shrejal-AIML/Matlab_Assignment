@@ -1,0 +1,7 @@
+---- Search Report ----
+Array: 15 7 28 10 7 24 19 7 36 11 7 30
+
+Target   First Pos    Count        Status
+7        2            4            Found
+24       6            1            Found
+60       -1           0            Not found

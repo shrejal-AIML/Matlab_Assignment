@@ -1,0 +1,10 @@
+---- Matrix Multiplication ----
+
+Test 1: A is 2x3, B is 3x2
+Result (2x2):
+    23    23
+    -5    21
+Matches MATLAB A*B: YES
+
+Test 2: A is 2x3, B is 2x2
+Cannot multiply: A has 3 columns but B has 2 rows.

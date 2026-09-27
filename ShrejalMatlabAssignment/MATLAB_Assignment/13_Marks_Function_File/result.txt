@@ -1,0 +1,9 @@
+---- Marks Analysis ----
+All marks       : 78 85 -10 42 68 115 51 33 90 105 44
+Valid marks     : 78 85 42 68 51 33 90 44
+Invalid (dropped): -10 115 105
+Valid count     : 8
+Average         : 61.38
+Highest         : 90
+Passed (>=40)   : 7
+Failed          : 1

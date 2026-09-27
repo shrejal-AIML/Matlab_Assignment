@@ -1,0 +1,30 @@
+---- Transaction Summary ----
+Total transactions   : 17
+------------------------------------
+No.  Amount       Type
+1      1200.00   Credit
+2      -350.00   Debit
+3         0.00   No change
+4      3100.00   Credit
+5      -900.00   Debit
+6       480.00   Credit
+7      -120.00   Debit
+8         0.00   No change
+9      4500.00   Credit
+10    -2800.00   Debit
+11      750.00   Credit
+12     -310.00   Debit
+13     2200.00   Credit
+14    -1050.00   Debit
+15        0.00   No change
+16      520.00   Credit
+17    -1400.00   Debit
+------------------------------------
+Total credits        : 12750.00
+Total debits         : 6930.00
+Net balance          : 5820.00
+Credit transactions  : 7
+Debit transactions   : 7
+No-change entries    : 3
+Largest credit       : 4500.00
+Largest debit amount : 2800.00

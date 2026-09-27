@@ -1,0 +1,13 @@
+---- Student Result Report ----
+Pass condition: all subjects >= 40
+
+Roll      S1    S2    S3    S4   Total      Avg  Result
+--------------------------------------------------------
+201       68    74    55    82     279    69.75  Pass
+202       41    35    60    47     183    45.75  Fail
+203       90    87    76    93     346    86.50  Pass
+204       37    44    28    53     162    40.50  Fail
+205       56    63    70    49     238    59.50  Pass
+206       84    78    45    69     276    69.00  Pass
+
+Total students: 6   Pass: 4   Fail: 2

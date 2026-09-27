@@ -1,0 +1,19 @@
+---- Array Summary Report ----
+
+Positive only: 21 8 35 14 6
+  Total   = 84
+  Average = 16.80
+  Min     = 6
+  Max     = 35
+
+All-negative: -7 -18 -3 -25 -11
+  Total   = -64
+  Average = -12.80
+  Min     = -25
+  Max     = -3
+
+Mixed values: 9 -5 0 12 -8 4
+  Total   = 12
+  Average = 2.00
+  Min     = -8
+  Max     = 12

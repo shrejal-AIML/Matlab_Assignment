@@ -1,0 +1,30 @@
+==========================================
+     STUDENT RECORD - FINAL REPORT
+==========================================
+Source file      : student_marks.txt
+Marks read       : 12
+Valid marks (10)  : 76 61 89 32 68 53 84 59 28 73
+Invalid marks (2): 112 -8
+(Range 0-100 is valid; invalid marks are excluded.)
+
+Individual status:
+  Student  1 :    76  Pass
+  Student  2 :    61  Pass
+  Student  3 :    89  Pass
+  Student  4 :    32  Fail
+  Student  5 :    68  Pass
+  Student  6 :    53  Pass
+  Student  7 :    84  Pass
+  Student  8 :    59  Pass
+  Student  9 :    28  Fail
+  Student 10 :    73  Pass
+
+------------ Summary ------------
+Total         : 623
+Average       : 62.30
+Highest       : 89
+Lowest        : 28
+Pass count    : 8 (cutoff 40)
+Fail count    : 2
+Pass %        : 80.00%
+Overall       : Good (75%+ passed)

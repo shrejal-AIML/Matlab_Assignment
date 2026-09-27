@@ -1,0 +1,9 @@
+---- Search Report ----
+Array: 11 8 34 6 34 19 34 3 6
+
+Searching for : 34
+First position: 3
+Occurrences   : 3
+
+Searching for : 55
+Result        : 55 was not found in the array.

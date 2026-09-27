@@ -1,0 +1,11 @@
+---- Array Classification ----
+Array             : 11 -9 0 7 -14 2.5 0 18 -3 6 -1 21
+Positive count    : 6
+Negative count    : 4
+Zero count        : 2
+Even integers     : 4
+Odd integers      : 7
+Non-integers      : 1 (excluded from even/odd)
+Sum of positives  : 65.5
+Sum of negatives  : -27
+Dominant category : Positive (6 elements)

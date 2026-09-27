@@ -1,0 +1,6 @@
+---- Factorial Test Results ----
+Case 1: 5! = 120
+Case 2: 0! = 1
+Case 3: 7! = 5040
+Case 4: -3 -> Rejected (not a non-negative integer)
+Case 5: 2.8 -> Rejected (not a non-negative integer)

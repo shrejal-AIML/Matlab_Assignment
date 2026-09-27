@@ -1,0 +1,11 @@
+---- Student Result Analyzer ----
+Input marks  : 72 45 -5 88 63 110 37 91 54 102 29 76
+Valid marks  : 72 45 88 63 37 91 54 29 76
+Rejected     : -5 110 102
+Pass cutoff  : mark >= 40
+Total        : 555
+Average      : 61.67
+Highest      : 91
+Lowest       : 29
+Passed       : 7
+Failed       : 2

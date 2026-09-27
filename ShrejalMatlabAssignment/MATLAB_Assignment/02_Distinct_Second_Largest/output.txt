@@ -1,0 +1,4 @@
+---- Second Largest Distinct Value ----
+Input array       : 45 82 19 82 63 45 97 97 31 63
+Maximum value     : 97
+Second largest    : 82

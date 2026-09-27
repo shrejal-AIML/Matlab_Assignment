@@ -1,0 +1,8 @@
+---- Digit Analysis Report ----
+Original number  : 73537
+Digit count      : 5
+Digit sum        : 25
+Even digits      : 0
+Odd digits       : 5
+Reversed number  : 73537
+Is palindrome    : Yes

@@ -1,0 +1,10 @@
+---- Selective Statistics (positive values) ----
+
+Dataset 1: 5 -7 0 18 -2 9 0 11 -4 3
+Positive count : 5
+Positive sum   : 46
+Positive avg   : 9.20
+
+Dataset 2: -6 0 -12 -1 0
+Positive count : 0
+No positive values found. Sum and average cannot be computed.
